@@ -62,7 +62,7 @@ Power BI · Microsoft Excel
 Git · GitHub · Jupyter Notebook · VS Code
 
 **Certifications**
-Python Full Stack — Internshala
+Python Full Stack — Codegnan Destination, Vijaywada
 
 ---
 
